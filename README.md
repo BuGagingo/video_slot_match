@@ -6,7 +6,7 @@
 [![PySide6](https://img.shields.io/badge/GUI-PySide6%20%28Qt6%29-green.svg?logo=qt&logoColor=white)](https://pypi.org/project/PySide6/)
 [![NumPy](https://img.shields.io/badge/Math-NumPy-013243.svg?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Multi-Core](https://img.shields.io/badge/Performance-Multi--Processing-orange.svg)](#-многопоточная-симуляция)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: СС0](https://img.shields.io/badge/License-СС0-yellow.svg)](LICENSE)
 
 ---
 
